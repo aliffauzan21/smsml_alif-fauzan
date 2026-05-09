@@ -1,1 +1,1 @@
-https://hub.docker.com/repository/docker/aliffauzan/breast_cancer_model
+https://hub.docker.com/repository/docker/farawispie/breast_cancer_model
